@@ -1,0 +1,17 @@
+{
+  "name": "chu",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel ./examples/index.html",
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.0",
+    "jest": "^26.6.0"
+  }
+}
